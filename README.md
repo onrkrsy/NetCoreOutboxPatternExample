@@ -1,6 +1,6 @@
-# ECommerceOutboxExample
+# NetCoreOutboxExample
 
-ECommerceOutboxExample, .NET 8 ile Outbox Pattern'in nasıl uygulanacağını gösteren bir örnek microservice projesidir. Bu proje, dağıtık sistemlerde veri tutarlılığını sağlamak ve servisler arası güvenilir iletişimi oluşturmak için Outbox Pattern'in nasıl kullanılabileceğini örneklendirmek için oluşturulmuştur.
+ECommerceOutboxExample, .NET 8 ile Outbox Pattern'in nasıl uygulanacağını gösteren bir örnek mikroservis projesidir. Bu proje, dağıtık sistemlerde veri tutarlılığını sağlamak ve servisler arası güvenilir iletişimi oluşturmak için Outbox Pattern'in nasıl kullanılabileceğini örneklendirmek için oluşturulmuştur.
 Daha fazla bilgi için [blog yazısını](https://medium.com/@onurkarasoy/net-core-8-ile-outbox-pattern-uygulamas%C4%B1-f03d0ac0d7ae) ziyaret edebilirsiniz.
 
 ## Özellikler
